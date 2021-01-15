@@ -80,3 +80,22 @@ body{
 .language1, .language2, .language3, .language4, .language5 {
     text-align: center;
 }
+.courses-part1, .courses-part2 {
+    display: flex;
+    justify-content: space-around;
+}
+.courses-part1{
+    margin: 0px 20px 0px 20px;
+}
+.courses-part2{
+    margin: 0px 20px 0px 20px; 
+}
+h4, h5{
+    margin: 0;
+}
+h5{
+    color: #5416B4;
+}
+li{
+    font-size: 14px;
+}
