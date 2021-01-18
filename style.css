@@ -82,7 +82,8 @@ body{
 }
 .courses-part1, .courses-part2 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    
 }
 .courses-part1{
     margin: 0px 20px 0px 20px;
@@ -94,8 +95,8 @@ h5{
     color: #5416B4;
 }
 
-.footer{
+.right-side .footer{
     display: flex;
-    align-items: flex-end;
-    justify-content: space-around;
+    align-content: flex-end;
+    justify-content: center;
 }
