@@ -111,7 +111,7 @@ h5{
     /* margin: 0 2.223em 0 2.223em;  */
 }
 .works-1 img, .works-2 img {
-    width: 200px;
+    width: 11.111em;
     margin: 0 2.223em 0 2.223em; 
 }
 
@@ -119,4 +119,17 @@ h5{
     display: flex;
     align-content: flex-end;
     justify-content: center;
+}
+
+.appeal {
+    text-align: center;
+}
+.contact {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 30px 150px;
+}
+.contact a{
+    color: #323232;
 }
